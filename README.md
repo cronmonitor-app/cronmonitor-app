@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**cronmonitor-app/cronmonitor-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CronMonitor
 
-Here are some ideas to get you started:
+This is a simple tool for monitoring CRON jobs. If a job doesn't complete within the scheduled time, you'll receive an immediate notification in your chosen channel (Slack, Discord, Email).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Website:** [cronmonitor.app](https://cronmonitor.app)
+
+## What is CronMonitor?
+
+Key Features
+
+- ✅ Alert when a job fails to complete. 
+- ✅ Alert when a task resumes
+- ✅ Simple integration via HTTP PING
+- ✅ Multi-channel alerts (email, Slack, Discord)
+- ✅ No complicated configuration
+- ✅ Clear graphs showing when a task has completed and when it hasn't
+
+## Coming soon
+
+- 📦 Official SDKs (PHP, Python, Node.js)
+- 📖 API documentation
+- 🛠️ Integration examples
+
+## Get started
+
+Create a free account at [cronmonitor.app](https://cronmonitor.app)
