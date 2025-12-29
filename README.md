@@ -18,7 +18,9 @@ Key Features
 ## Coming soon
 
 📦 Official SDKs (PHP, Python, Node.js)
+
 📖 API documentation
+
 🛠️ Integration examples
 
 ## Get started
