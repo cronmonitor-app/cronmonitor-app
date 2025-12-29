@@ -8,12 +8,12 @@ This is a simple tool for monitoring CRON jobs. If a job doesn't complete within
 
 Key Features
 
-- ✅ Alert when a job fails to complete. 
-- ✅ Alert when a task resumes
-- ✅ Simple integration via HTTP PING
-- ✅ Multi-channel alerts (email, Slack, Discord)
-- ✅ No complicated configuration
-- ✅ Clear graphs showing when a task has completed and when it hasn't
+- Alert when a job fails to complete. 
+- Alert when a task resumes
+- Simple integration via HTTP PING
+- Multi-channel alerts (email, Slack, Discord)
+- No complicated configuration
+- Clear graphs showing when a task has completed and when it hasn't
 
 ## Coming soon
 
