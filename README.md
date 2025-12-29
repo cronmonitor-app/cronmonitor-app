@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # CronMonitor
 
 This is a simple tool for monitoring CRON jobs. If a job doesn't complete within the scheduled time, you'll receive an immediate notification in your chosen channel (Slack, Discord, Email).
